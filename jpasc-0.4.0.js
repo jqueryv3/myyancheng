@@ -1,0 +1,1 @@
+const student = { name: 'jack' };
